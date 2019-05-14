@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 def instantiate_new_array
+=======
+def instaniate_new_array
+>>>>>>> e1372f61471a51a797f792488b5ec1b63fd56616
 	Array.new
 end
 
